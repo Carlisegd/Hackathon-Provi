@@ -1,6 +1,6 @@
 # Hackathon-Provi - Desafio Hackathon da Provi 2022
 
-Fiquei responsável pela parte do banck-end e criação da API.
+Fiquei responsável pela parte do banck-end e criação da API junto como Elvis.
 
 Logo do projeto
 
